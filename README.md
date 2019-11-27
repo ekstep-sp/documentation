@@ -10,6 +10,10 @@ https://docs.google.com/document/d/1F70YDqkk6Qp4eTVJaZCRkqP7e8sHIkHgHKcNsjLDIxs/
 ### Document for refering various parameters of zoom apis
 https://docs.google.com/document/d/1_d9XexmcCbFDI2vJQsvoA4cUL-6ds-bvqaMhpp-CmlI/edit?usp=sharing
 
+### Document for speaker diarization Installation
+https://docs.google.com/document/d/1hddjXd4cKhowrJRknv52pj9a6eiXI6qBpdUly45BKhg/edit?usp=sharing
+
+
 ### Document for speaker diarization using Trint
 https://docs.google.com/document/d/102CLKSS998mZDpCt0MMqiw79v2b1X6a5MlACxznWpVM/edit?usp=sharing
 
