@@ -31,6 +31,9 @@ https://docs.google.com/document/d/1gmhgNhALogBclLeaZFXE2eXjZ61D9xvXmI95PUMYTGE/
 * Path Finding Algorithm : https://docs.google.com/document/d/1ZS2_O0s-tiw2KVKCWHQvTSGkK27RlsrG7YhFm56kaoo/edit?usp=sharing
 * Neo4j Algorithm : https://docs.google.com/document/d/1kFthsdN9BtO5smf_igcACBRIapLb3MR6bwDTsa4Y_1k/edit?usp=sharing
 
+### Installation Documentation for Network Visualizer
+https://github.com/societalplatform-ekstep/network-visualizer/tree/development-v2-algo-toolkit
+
 ### Network Visualizer Flow Diagram
 https://drive.google.com/file/d/1T0ImNCCj3SR5B3AfAGsxxNatdjAVheTC/view?usp=sharing
 
