@@ -7,6 +7,9 @@ Below is the list of documentation links available for various projects. These c
 ### Document for Open Source IVR Solution
 https://docs.google.com/document/d/1F70YDqkk6Qp4eTVJaZCRkqP7e8sHIkHgHKcNsjLDIxs/edit?usp=sharing
 
+### Document for Speaker Diarization using Zoom Apis
+https://docs.google.com/document/d/1yvUdaCtF4wa1nbc5s9l_5JeDtXglquKyDl2UISVYrL4/edit?usp=sharing
+
 ### Document for refering various parameters of zoom apis
 https://docs.google.com/document/d/1_d9XexmcCbFDI2vJQsvoA4cUL-6ds-bvqaMhpp-CmlI/edit?usp=sharing
 
